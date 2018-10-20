@@ -1,4 +1,4 @@
-###Study Design
+# Study Design
 
 This section contains information on how the data for the Coursera Data Science Getting and Cleaning Data Course Project was collected and summarized.
 
@@ -10,7 +10,7 @@ In the table "HAR-timewindow.txt" only the summarization variables representing 
 
 In the table "HAR-subject-activity-mean.txt", the data was further summarized by taking the mean of all the observations for each of the 79 variables per unique combination of subject and activity. There ranged from 36 to 95 time windows associated with each combination of subject and activity. The variable names in the file were prefixed with "subject-activity-mean-" to reflect that that these values are the mean of the corresponding time window values for each subject-activity group.
 
-###Code Book
+# Code Book
 This section contains specific information each variable (column) included in the uploaded table, HAR-subject-activity-mean.txt. Most of the variables are summarizations of variables with the same name and description in the Human Activity Recognition Using Smartphones Dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The variables are described in the features_info.txt and README.txt in that dataset. Please see those files for more details.
 
 Units (according to the README.txt file):
