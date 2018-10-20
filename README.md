@@ -1,4 +1,4 @@
-# Course-3-Getting-and-Cleaning-Data
+# Course-3-Getting-and-Cleaning-Data Project
 
 This repository contains all the files relating to the final project of the thrid course of the Data Science Specialization given by the John Hopkins University on Coursera.
 
